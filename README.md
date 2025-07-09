@@ -19,9 +19,9 @@ A secure, random password generator built using **Python** and **Streamlit**. In
 
 
 ## Screenshots 📸
-| Enter Amount | Convert Currency |
+| Home Page | Generated Password  |
 |------------------|----------------|
-| ![Enter Amount](screenshots/image1.png) | ![Convert Currency](screenshots/image2.png) |
+| ![Home Page](screenshots/image1.png) | ![Generated Password](screenshots/image2.png) |
 
 ## Tech Stack 🛠
 - *Frontend*: Streamlit
